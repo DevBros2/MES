@@ -2411,8 +2411,11 @@ namespace MES
 			// aapt resource value: 0x7f0800b2
 			public const int action_remove = 2131230898;
 			
+			// aapt resource value: 0x7f0800b4
+			public const int action_settings = 2131230900;
+			
 			// aapt resource value: 0x7f0800b3
-			public const int action_settings = 2131230899;
+			public const int action_sidemenu = 2131230899;
 			
 			// aapt resource value: 0x7f08009c
 			public const int action_text = 2131230876;

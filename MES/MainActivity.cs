@@ -36,6 +36,9 @@ namespace MES
                         Toast.MakeText(this, "Action remove Clicked", ToastLength.Short).Show();
                         break;
 
+                    case Resource.Id.action_sidemenu:
+                        Toast.MakeText(this, "Action Menu Clicked", ToastLength.Short).Show();
+                        break;
                 }
             };
 

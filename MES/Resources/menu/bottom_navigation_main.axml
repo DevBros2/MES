@@ -21,6 +21,13 @@
       android:id="@+id/action_remove"
       android:enabled="false"
       android:icon="@drawable/ic_check"
-      android:title="Edit"
+      android:title="Remove"
+      app:showAsAction="ifRoom"/>
+
+<item
+      android:id="@+id/action_sidemenu"
+      android:enabled="false"
+      android:icon="@drawable/ic_check"
+      android:title="Menu"
       app:showAsAction="ifRoom"/>
 </menu>
